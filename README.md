@@ -1,1 +1,1 @@
-[View Schema (PDF)](schema.pdf)
+[View Schema (PDF)](Schema.pdf)
