@@ -1,0 +1,44 @@
+## Build Folders
+bin/
+obj/
+out/
+TestResults/
+
+## User-specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+.vscode/
+*.code-workspace
+
+## ASP.NET Core Configuration
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.secret.json
+
+## Global NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.nupkg.sha512
+*.nupkg.sig
+
+## Logs
+*.log
+
+## Temporary Files
+*.tmp
+*.bak
+*.swp
+*.cache
+
+## Other
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+.idea/
